@@ -1,0 +1,51 @@
+export const apps = [
+  {
+    id: 1,
+    name: 'NeoMind',
+    description: 'AI solution for coding, multimedia, and real-time communication.',
+    icon: 'https://neomind.vercel.app/_next/image?url=%2Flogo.png&w=1920&q=75',
+    screenshots: [
+      'https://play-lh.googleusercontent.com/yPfdovkrHhxdLm8pa60cVjdzPSqkV4SwJHhcPWoyjkSB6B_aBnOH2L7eqqjXO_haZ1gD=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/fwEUO6NxmMB6wNM5vvizp5DPKrcGrI0_K1vRKrKH46xUBWESymnjXTSM2SoT_KbK=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/quKCcn2zMlFgMCFBFuAz845tpcr-CUdiCL-K3MfaS4JXLCfD7eH--mxGksNoQqLWaBS7=w2560-h1440-rw',
+    ],
+    rating: 4.8,
+    downloads: '100K+',
+    category: 'AI Assistant',
+    playStoreUrl: 'https://play.google.com/store',
+    appStoreUrl: 'https://apps.apple.com',
+  },
+  {
+    id: 2,
+    name: 'Room',
+    description: 'Connect, collaborate, and communicate easily with advanced conferencing.',
+    icon: 'https://images.therich.io/images/logo/us/ZM.png?timestamp=1637730356',
+    screenshots: [
+      'https://play-lh.googleusercontent.com/nrPtPO_nj5mUQbyL8Zw8ga9MkTPdWv2r45vInk8pBEpMuBJmDKeSCDmk1JjSBI9vJFc=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/n81GVjJeZ7gX--BMl04euuRZE8pl4K8_mmmMp2-hNmMUYygrUv4WtxKW2W3I3DcC9F-H=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/Uah7l6ISrU9QcPmbeb5wR5Vpc313PGa7KXa8Yu_DDGdvRgBgdvgzdcM7gk46AJo7uA=w2560-h1440-rw',
+    ],
+    rating: 4.2,
+    downloads: '700K+',
+    category: 'Meeting Platform',
+    playStoreUrl: 'https://play.google.com/store',
+    appStoreUrl: 'https://apps.apple.com',
+  },
+  {
+    id: 3,
+    name: 'Drove',
+    description: 'Organize, collaborate, and manage your docs in our next-gen cloud platform.',
+    icon: 'https://drove.vercel.app/_next/image?url=%2Flogo.png&w=256&q=75',
+    screenshots: [
+      'https://play-lh.googleusercontent.com/mHTPmBMSd43nkJsjFVf8REkLYGIaS2qhDDnR55jFHzuzerIZfQ7SX0DywEkgQGTQvA=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/LUDA2thXHn1FTcpeST5nP1PiloYc4GkQqbirgLeFfwHQ1AxsBQKm3uHp7Deg6Cn1nh00=w2560-h1440-rw',
+      'https://play-lh.googleusercontent.com/ex2GZAmkY-JutHPFxj4ubvdy6RiKfCiFF6rxSr93n6cVsBpPg0eLTbJ_hDJB6BvN_Qc=w2560-h1440-rw',
+    ],
+    rating: 4.5,
+    downloads: '360K+',
+    category: 'File Sharing & Saving',
+    playStoreUrl: 'https://play.google.com/store',
+    appStoreUrl: 'https://apps.apple.com',
+  },
+  // Add more apps...
+];
